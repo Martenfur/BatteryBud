@@ -14,7 +14,7 @@ This utility adds a system tray battery percentage indicator on Windows.
 
 ## Features
 
-- **Completely seamless** - the proram is designed to mimic the style of Windows and looks just like any other system icon.
+- **Completely seamless** - the program is designed to mimic the style of Windows and looks just like any other system icon.
 - **HiDPI support -** will look good regardless of DPI.
 - **Low battery alarm** - If you keep forgetting to charge your battery, Simple Battery Display will remind you when
   your battery drops below a certain percentage.
